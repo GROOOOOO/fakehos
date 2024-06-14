@@ -1,0 +1,32 @@
+.user-list-container {
+    display: flex;
+    justify-content: center;
+}
+
+.user-list-container {
+    margin: 0;
+    padding: 0;
+    /* Add other necessary styles */
+}
+
+.user-list-container {
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 800px;
+    text-align: center;
+}
+
+.user-list-container table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.user-list-container th,
+.user-list-container td {
+    padding: 10px;
+    text-align: left;
+}
+
+.d-inline-block {
+    color: green;
+}
